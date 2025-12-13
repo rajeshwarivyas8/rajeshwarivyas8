@@ -40,7 +40,6 @@ Alongside development, I actively strengthen my knowledge of Data Structures & A
 - Collaborated with team members to enhance UI performance and user experience  
 
 ---
-
 ### 🤖 Artificial Intelligence Intern — IBM SkillsBuild  
 **July 2024 – Aug 2024**
 - Worked on hands-on projects in Python, AI fundamentals, and chatbot development
@@ -48,26 +47,20 @@ Alongside development, I actively strengthen my knowledge of Data Structures & A
 - Strengthened problem-solving, algorithmic thinking, and Python programming skills  
 
 ---
-
 ## 🧰 Technical Skills
 
 **Programming Languages:**  Java, C++, Python, SQL, JavaScript, HTML, CSS
  
+**Web Technologies:**  React.js, Node.js, Express.js, Tailwind CSS, MongoDB, REST APIs 
+ 
+**AI Tools & Platforms:**  OpenAI API, ChatGPT Integration, Gemini 
 
-**Web Technologies:**  
-React.js, Node.js, Express.js, Tailwind CSS, MongoDB, REST APIs  
+**Developer Tools & Platforms:**  Git, GitHub, CI/CD, VS Code, AWS, Firebase, Linux 
 
-**AI Tools & Platforms:**  
-OpenAI API, ChatGPT Integration, Gemini  
+**Core CS Expertise:**  Data Structures & Algorithms, Operating Systems, System Design, OOPS, Database Management System 
 
-**Developer Tools & Platforms:**  
-Git, GitHub, CI/CD, VS Code, AWS, Firebase, Linux  
-
-**Core CS Expertise:**  
-Data Structures & Algorithms, Operating Systems, System Design, OOPS, Database Management System  
 
 ---
-
 
 ## 🏆 Achievements
 - 🎓 McKinsey Forward Learning Trainee (2025) – Leadership & analytical excellence
