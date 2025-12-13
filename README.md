@@ -23,6 +23,13 @@ Alongside development, I actively strengthen my knowledge of Data Structures & A
 🚀 Currently seeking **Software Engineering / Full-Stack / AI-focused internship and entry-level opportunities**.
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwarivyas)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshwarivyas317@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917770975743)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rajeshwarivyas8)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)]([[https://leetcode.com/u/rajeshwarivyas8/](https://leetcode.com/u/rajeshwarivyas8/)])
+
 
 ## 💼 Experience
 
@@ -85,12 +92,7 @@ Data Structures & Algorithms, Operating Systems, System Design, OOPS, Database M
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwarivyas)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshwarivyas317@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917770975743)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rajeshwarivyas8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)]([https://leetcode.com/u/rajeshwarivyas8/])
+
 
  
 ---
