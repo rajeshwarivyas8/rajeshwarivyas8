@@ -1,12 +1,17 @@
-# Hi 👋 I'm Rajeshwari Vyas  
+<h1 align="center">Hi 👋 I'm Rajeshwari Vyas</h1>
+<h3 align="center">Full-Stack Software Developer | AI & IoT Enthusiast</h3>
 
-### Full-Stack Software Developer | AI & IoT Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=520&lines=Full-Stack+Development;AI+%26+IoT+Enthusiast;Building+Scalable+Software+Solutions" />
+</p>
 
-🎓 B.Tech in Internet of Things (2022–2026)  
-🏫 Samrat Ashok Technological Institute, Vidisha, M.P., India  
-📌 CGPA: 7.58 / 10  
+---
 
-I am a passionate software developer with a strong interest in full-stack development, artificial intelligence, and IoT-based systems. I enjoy building scalable applications, solving real-world problems, and continuously improving my core computer science fundamentals.
+## 🎓 Education
+
+| Degree | Institute | Duration | CGPA |
+|------|-----------|----------|------|
+| B.Tech – Internet of Things | Samrat Ashok Technological Institute, Vidisha (M.P.) | 2022 – 2026 | **7.58 / 10** |
 
 ---
 
@@ -56,15 +61,17 @@ Data Structures & Algorithms, Operating Systems, System Design, OOPS, Database M
 
 ---
 
+
 ## 🏆 Achievements
-- **McKinsey Forward Learning Trainee (2025)** – Selected for leadership & analytical excellence  
-- **Juspay Hiring Challenge 2025** – Cleared 2 MCQ rounds; ranked in top **4–5% nationwide**  
-- **Flipkart GRID 7.0 (2025)** – Selected from 60,000+ applicants (**top 5%**)  
-- **Meesho “Scripted by Her” Hackathon (2025)** – Nationwide selection  
-- Participated in **Bhartiya Antariksh Hackathon 2025**  
-- Participated in **Adobe Hackathon 2025**  
-- **Semi-Finalist – Smart India Hackathon 2023**  
-- Shortlisted for **E-CELL BoardRoom Event, IIT Indore (2025)**  
+- 🎓 McKinsey Forward Learning Trainee (2025) – Leadership & analytical excellence
+- 🥇 Juspay Hiring Challenge 2025 – Top 4–5% nationwide
+- 🏆 Flipkart GRID 7.0 – Top 5% selection from 60,000+ applicants
+- 🎯 Meesho “Scripted by Her” Hackathon (2025) – Nationwide selection
+- ✨ Participated in Bhartiya Antariksh Hackathon 2025
+- ✨ Participated in Adobe Hackathon 2025
+- 🎯 Semi-Finalist – Smart India Hackathon 2023
+- 🎓 Shortlisted for E-CELL BoardRoom Event at IIT Indore (2025)
+
 
 ---
 
