@@ -68,11 +68,13 @@ Data Structures & Algorithms, Operating Systems, System Design, OOPS, Database M
 
 ---
 
-## 📜 Certifications
-- Data Structures and Algorithms using Java – Infosys Springboard  
-- Java Programming & Software Engineering – Duke University (Coursera)  
-- Python Programming – Udemy  
-- Getting Started with DevOps – AWS  
+## 🏅 Certifications
+
+[![DSA Java - Infosys Springboard](https://img.shields.io/badge/DSA%20(Java)%20-Infosys%20Springboard-blue?logo=infosys&logoColor=white)](link-to-certificate)
+[![Java Prog - Duke University](https://img.shields.io/badge/Java%20Prog%20%26%20SW%20Eng-Coursera-red?logo=coursera&logoColor=white)](link-to-certificate)
+[![Python Prog - Udemy](https://img.shields.io/badge/Python%20Prog-Udemy-orange?logo=python&logoColor=white)](link-to-certificate)
+[![DevOps - AWS](https://img.shields.io/badge/DevOps%20(AWS)-AWS-yellow?logo=amazonaws&logoColor=white)](link-to-certificate)
+
 
 ---
 
