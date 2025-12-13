@@ -51,8 +51,8 @@ Alongside development, I actively strengthen my knowledge of Data Structures & A
 
 ## 🧰 Technical Skills
 
-**Programming Languages:**  
-Java, C++, Python, SQL, JavaScript, HTML, CSS  
+**Programming Languages:**  Java, C++, Python, SQL, JavaScript, HTML, CSS
+ 
 
 **Web Technologies:**  
 React.js, Node.js, Express.js, Tailwind CSS, MongoDB, REST APIs  
