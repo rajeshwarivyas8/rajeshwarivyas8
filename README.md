@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rajeshwari Vyas</h1>
-<h3 align="center">Full-Stack Software Developer | AI & IoT Enthusiast</h3>
+<h3 align="center">MERN-Stack Software Developer | AI & IoT Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=520&lines=Full-Stack+Development;AI+%26+IoT+Enthusiast;Building+Scalable+Software+Solutions" />
