@@ -18,7 +18,7 @@
 ## 👩‍💻 About Me
 I have hands-on experience working with frontend development, AI-driven projects, and backend technologies. My journey includes building responsive user interfaces, integrating REST APIs, and developing AI-based mini-projects.
 
-Alongside development, I actively strengthen my knowledge of Data Structures & Algorithms, Operating Systems, DBMS, OOPS, and System Design. I am motivated to work in fast-paced environments where I can learn, contribute, and grow as a software engineer.
+Alongside development, I actively strengthen my knowledge of Data Structures & Algorithms, Operating Systems, DBMS, OOPS. I am motivated to work in fast-paced environments where I can learn, contribute, and grow as a software engineer.
 
 🚀 Currently seeking **Software Engineering / Full-Stack / AI-focused internship and entry-level opportunities**.
 
